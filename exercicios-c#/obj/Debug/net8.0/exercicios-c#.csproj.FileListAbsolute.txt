@@ -13,3 +13,18 @@ C:\Users\COA6JVL\OneDrive - Bosch Group\repositorio\exercicios-c#\obj\Debug\net8
 C:\Users\COA6JVL\OneDrive - Bosch Group\repositorio\exercicios-c#\obj\Debug\net8.0\exercicios-c#.genruntimeconfig.cache
 C:\Users\COA6JVL\OneDrive - Bosch Group\repositorio\exercicios-c#\obj\Debug\net8.0\ref\exercicios-c#.dll
 C:\Users\COA6JVL\OneDrive - Bosch Group\repositorio\exercicios-c#\obj\Debug\net8.0\exercicios-c#.sourcelink.json
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.AssemblyInfoInputs.cache
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.AssemblyInfo.cs
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.csproj.CoreCompileInputs.cache
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.sourcelink.json
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.dll
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\refint\exercicios-c#.dll
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.pdb
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\bin\Debug\net8.0\exercicios-c#.exe
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\bin\Debug\net8.0\exercicios-c#.deps.json
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\bin\Debug\net8.0\exercicios-c#.runtimeconfig.json
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\bin\Debug\net8.0\exercicios-c#.dll
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\bin\Debug\net8.0\exercicios-c#.pdb
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\exercicios-c#.genruntimeconfig.cache
+C:\Users\COA6JVL\Documents\clone-repositoiro-c#\exercicios-cSharp-bosch\exercicios-c#\obj\Debug\net8.0\ref\exercicios-c#.dll

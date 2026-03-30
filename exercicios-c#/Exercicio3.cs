@@ -12,7 +12,7 @@ segundo jogador. Não será possível jogar com mais do que dois jogadores. */
  
 class Program
 {
-    static Random random = new Random();
+    static Random random = new Random(); //gera numeros aleatorios
  
     static void Main(){
  

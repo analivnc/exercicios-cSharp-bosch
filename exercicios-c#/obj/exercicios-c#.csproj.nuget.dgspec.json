@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COA6JVL\\OneDrive - Bosch Group\\repositorio\\exercicios-c#\\exercicios-c#.csproj": {}
+    "C:\\Users\\COA6JVL\\Documents\\clone-repositoiro-c#\\exercicios-cSharp-bosch\\exercicios-c#\\exercicios-c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COA6JVL\\OneDrive - Bosch Group\\repositorio\\exercicios-c#\\exercicios-c#.csproj": {
+    "C:\\Users\\COA6JVL\\Documents\\clone-repositoiro-c#\\exercicios-cSharp-bosch\\exercicios-c#\\exercicios-c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COA6JVL\\OneDrive - Bosch Group\\repositorio\\exercicios-c#\\exercicios-c#.csproj",
+        "projectUniqueName": "C:\\Users\\COA6JVL\\Documents\\clone-repositoiro-c#\\exercicios-cSharp-bosch\\exercicios-c#\\exercicios-c#.csproj",
         "projectName": "exercicios-c#",
-        "projectPath": "C:\\Users\\COA6JVL\\OneDrive - Bosch Group\\repositorio\\exercicios-c#\\exercicios-c#.csproj",
+        "projectPath": "C:\\Users\\COA6JVL\\Documents\\clone-repositoiro-c#\\exercicios-cSharp-bosch\\exercicios-c#\\exercicios-c#.csproj",
         "packagesPath": "C:\\Users\\COA6JVL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COA6JVL\\OneDrive - Bosch Group\\repositorio\\exercicios-c#\\obj\\",
+        "outputPath": "C:\\Users\\COA6JVL\\Documents\\clone-repositoiro-c#\\exercicios-cSharp-bosch\\exercicios-c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COA6JVL\\AppData\\Roaming\\NuGet\\NuGet.Config"
